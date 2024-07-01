@@ -20,4 +20,13 @@ The implementation ensures that each frame processing does not exceed 30 ms, mak
 <br/><b> Average processing time for a single frame: 9ms </b>
 
 # PART B:
-## TBD
+## How to run
+* Clone the repo to a local machine
+* Open Part_B folder
+* Open the Aruco_detector_PART_B.ipynb file in Jupyter and run each block one by one
+  
+## Requirements
+* Connect a webcam / your phone's camera
+  
+## Description
+Detecting ArUco marker in a live stream video using computer vision techniques and instructing the user with 8 commands (left, right, forward, backward, up, down, turn-left , turn-right) in order to align the live feed with the desired pre-recored ArUco marker pose. 
